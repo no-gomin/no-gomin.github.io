@@ -4,8 +4,8 @@
 방문해 주셔서 진심으로 감사드립니다.
 
 ★ 소아과 ★   
-no-gomin.github.io/pediatrics/pediatrics.html
+https://no-gomin.github.io/pediatrics/
 
 ★ 충치 ★   
-no-gomin.github.io/cavities/cavities.html
+https://no-gomin.github.io/cavities/
 
